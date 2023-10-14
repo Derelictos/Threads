@@ -1,3 +1,5 @@
+package com.code.java.multithreading;
+
 public class MathSquare extends Thread{
 
     private final int value;
